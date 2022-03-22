@@ -1,0 +1,19 @@
+{
+  "name": "components-in-tsx",
+  "version": "1.0.0",
+  "description": "react and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylbyte/components-in-tsx.git"
+  },
+  "author": "Dylan Baker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylbyte/components-in-tsx/issues"
+  },
+  "homepage": "https://github.com/dylbyte/components-in-tsx#readme"
+}
